@@ -14,6 +14,9 @@
 - good afternoon
 - howdy
 - heya
+- tarrell
+- londo
+- londu
 
 ## intent:inform
 - [afghan](cuisine) food
@@ -84,12 +87,10 @@
 - hi im looking for [mexican](cuisine) food
 - how about [indian](cuisine) type of food
 - i would like a restaurant in the [north](location) part of town
-- restaurant in the [west](location) part of town
 - [polynesian](cuisine) food
 - [mexican](cuisine)
 - looking for a restaurant in the [south](location) part of town
 - restaurant any area [japanese](cuisine) food
-- im looking for a restaurant in the [north](location) part of town
 - what about [thai](cuisine) food
 - how about [asian oriental](cuisine) food
 - i am looking for a restaurant in [london](location)
@@ -163,15 +164,11 @@
 - thank you goodbye
 - okay thank you goodbye
 - uh thank you good bye
-- thank you goodbye
 - thank you
 - okay thank you
 - thanks goodbye
 - ah thank you goodbye
-- thank you
-- thank you good bye
 - thanks
-- thank you goodbye
 - uh okay thank you good bye
 - thank you bye
 - um okay thank you good bye
